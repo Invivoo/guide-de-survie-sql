@@ -14,6 +14,7 @@ Chaque cours est accompagné d'une mini base de test sur laquelle on peut faire 
 * https://www.w3schools.com/sql/default.asp
 * https://sqlzoo.net/wiki/SQL_Tutorial
 * https://sqlbolt.com
+* https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet
 
 ## Cheat sheets
 
@@ -21,6 +22,14 @@ Chaque cours est accompagné d'une mini base de test sur laquelle on peut faire 
 * https://learnsql.com/blog/sql-basics-cheat-sheet/
 * https://www.dbvis.com/wp-content/uploads/2024/04/SQL-Cheat-Sheet.pdf
 * https://www.dataquest.io/cheat-sheet/sql-cheat-sheet/
+* Idéale pour débutants : https://www.metabase.com/learn/cheat-sheets/sql-cheat-sheet
+
+Une série de cheat sheets organisée par type de DB :
+* SQL : https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet.pdf
+* Oracle SQL : https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_oracle.pdf
+* SQL Server SQL : https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_sqlserver.pdf
+* MySQL Server SQL : https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf
+* PostGreSQL SQL : https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf
 
 ## Quizz
 
