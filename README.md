@@ -15,7 +15,7 @@ Chaque cours est accompagné d'une mini base de test sur laquelle on peut faire 
 * https://sqlzoo.net/wiki/SQL_Tutorial
 * https://sqlbolt.com
 * https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet
-* https://8weeksqlchallenge.com/getting-started/
+* https://8weeksqlchallenge.com/getting-started/ <= ça utilise un site pour créer son schéma et jouer les requêtes : https://www.db-fiddle.com
 
 ## Cheat sheets
 
