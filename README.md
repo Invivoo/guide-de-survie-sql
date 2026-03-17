@@ -10,12 +10,14 @@ Ce document a pour vocation d'être collaboratif, toute suggestion de ressource 
 
 Chaque cours est accompagné d'une mini base de test sur laquelle on peut faire des requêtes, sans rien à installer
 
+* https://www.sql-practice.com => un set de tables simple (4 tables) et un plus compliqué (11 tables) sur lesquels on peut pratiquer sans limite
 * https://fxjollois.github.io/cours-sql/
 * https://www.w3schools.com/sql/default.asp
 * https://sqlzoo.net/wiki/SQL_Tutorial
 * https://sqlbolt.com
 * https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet
 * https://8weeksqlchallenge.com/getting-started/ <= ça utilise un site pour créer son schéma et jouer les requêtes : https://www.db-fiddle.com
+* https://www.db-fiddle.com => on peut créer son schéma et ses données, et les requêter
 * Cours un peu plus fun : https://lost-at-sql.therobinlord.com/
 
 ## Cheat sheets
